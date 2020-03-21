@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175948841777",
+    "firebase_url": "https://self-f893f.firebaseio.com",
+    "project_id": "self-f893f",
+    "storage_bucket": "self-f893f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175948841777:android:6c790aade5daeb94056610",
+        "android_client_info": {
+          "package_name": "com.goranm.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175948841777-6t6318mdmqt627imdvr3eigamkrlgdlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtJ96cFpS-ZQkHOTluLr5k4RDLKNRp-nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175948841777-6t6318mdmqt627imdvr3eigamkrlgdlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
