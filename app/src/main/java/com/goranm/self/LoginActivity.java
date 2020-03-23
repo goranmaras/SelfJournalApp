@@ -14,6 +14,9 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.Task;
@@ -34,6 +37,9 @@ import java.util.Objects;
 import util.JournalApi;
 
 public class LoginActivity extends AppCompatActivity {
+
+    private AdView mAdView;
+
 
     private Button loginButton;
     private Button createAccButton;
